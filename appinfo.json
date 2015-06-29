@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Mick Schellekens",
+    "longName": "Simple",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Simple-watchapp-BW.png",
+                "name": "MENU",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Simple",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "030ee5fc-518b-49e5-b9b2-0700ee92af89",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
